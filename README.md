@@ -1,2 +1,1 @@
-# themer-colors-humanoid
-Humanoid color set for themer.
+Humanoid color set for [themer](https://themer.dev/).
